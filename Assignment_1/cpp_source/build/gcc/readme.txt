@@ -1,0 +1,1 @@
+If X11 is installed you can add -D _DISPLAY_GRAPHICS to display CImg windows.
